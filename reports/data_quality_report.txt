@@ -1,0 +1,3 @@
+Data Quality Report
+----------------------
+Percentage of records with potential product name issues: 0.00%

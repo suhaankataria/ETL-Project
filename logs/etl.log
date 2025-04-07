@@ -1,0 +1,25 @@
+2025-04-07 23:00:44,362 - INFO - Loading data from: data/input\customer_orders_may.csv
+2025-04-07 23:00:44,368 - INFO - Loading data from: data/input\old_orders.xlsx
+2025-04-07 23:00:44,673 - INFO - Loading data from: data/input\orders_april_2025.xlsx
+2025-04-07 23:00:44,747 - WARNING - Found 0 (0.00%) product names with potential issues.
+2025-04-07 23:00:44,753 - INFO - Found 7 (70.00%) potential duplicate order records.
+2025-04-07 23:00:44,753 - WARNING - Could not find column matching hint: 'number of products ordered by the customer'.
+2025-04-07 23:00:44,753 - WARNING - Could not find column matching hint: 'customer name'.
+2025-04-07 23:01:15,827 - INFO - Loading data from: data/input\customer_orders_may.csv
+2025-04-07 23:01:15,834 - INFO - Loading data from: data/input\old_orders.xlsx
+2025-04-07 23:01:16,134 - INFO - Loading data from: data/input\orders_april_2025.xlsx
+2025-04-07 23:01:16,143 - WARNING - Found 0 (0.00%) product names with potential issues.
+2025-04-07 23:01:16,144 - INFO - Found 7 (70.00%) potential duplicate order records.
+2025-04-07 23:01:16,144 - WARNING - Could not find column matching hint: 'number of products ordered by the customer'.
+2025-04-07 23:01:16,144 - WARNING - Could not find column matching hint: 'customer name'.
+2025-04-07 23:06:52,304 - INFO - Loading data from: data/input\customer_orders_may.csv
+2025-04-07 23:06:52,310 - INFO - Loading data from: data/input\old_orders.xlsx
+2025-04-07 23:06:52,714 - INFO - Loading data from: data/input\orders_april_2025.xlsx
+2025-04-07 23:06:52,732 - WARNING - Found 0 (0.00%) product names with potential issues.
+2025-04-07 23:06:52,733 - INFO - Found 7 (70.00%) potential duplicate order records.
+2025-04-07 23:06:52,733 - WARNING - Could not find column matching hint: 'number of products ordered by the customer'.
+2025-04-07 23:06:52,733 - WARNING - Could not find column matching hint: 'customer name'.
+2025-04-07 23:06:52,746 - INFO - Consolidated data saved to: data/output\consolidated_orders.csv
+2025-04-07 23:06:52,746 - INFO - Data quality report saved to: reports\data_quality_report.txt
+2025-04-07 23:06:54,534 - INFO - Product issue pie chart saved to: reports\product_issue_pie_chart.png
+2025-04-07 23:06:54,534 - INFO - ETL process completed.
